@@ -2,7 +2,7 @@ window.onload = downloadFile;
 
 
 function downloadFile(url, filename) {
-    let link = "test.zip";
+    let link = "Ver-1013-home/test.zip";
     window.open(link, '_self');
     // "use strict";
     // console.log("called");

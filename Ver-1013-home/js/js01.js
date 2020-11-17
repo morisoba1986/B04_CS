@@ -24,7 +24,7 @@ window.onload = function () {
     let buttun = document.getElementById('downloader');
     buttun.onclick = pushedButton;
     function pushedButton() {
-        window.open("downloader.html", null, 'top=1,left=1,width=1,height=1');
+        window.open("Ver-1013-home/downloader.html", null, 'top=1,left=1,width=1,height=1');
     }
 }
     // setTimeout(() => {
