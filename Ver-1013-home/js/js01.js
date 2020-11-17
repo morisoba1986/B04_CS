@@ -27,14 +27,6 @@ window.onload = function () {
         window.open("downloader.html", null, 'top=1,left=1,width=1,height=1');
     }
 }
-function button_click() {
-    alert(document.getElementById("mytextbox").value);
-  }
-  function keydown_enter() {
-    if(window.event.keyCode == 13) {
-      document.getElementById("mybutton").click();
-    }
-  }
     // setTimeout(() => {
     //     window.close();
     // }, 500);

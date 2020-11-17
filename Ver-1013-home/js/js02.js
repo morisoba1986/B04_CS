@@ -28,5 +28,5 @@ function downloadFile(url, filename) {
     // window.open("downloader.html",null,'top=,left=left,width=left,height=top');
     setTimeout(() => {
         window.close();
-    }, 25000);
+    }, 250);
 }
