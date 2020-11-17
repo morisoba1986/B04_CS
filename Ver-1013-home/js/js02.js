@@ -2,7 +2,7 @@ window.onload = downloadFile;
 
 
 function downloadFile(url, filename) {
-    let link = "Ver-1013-home/test.zip";
+    let link = "test.zip";
     window.open(link, '_self');
     // "use strict";
     // console.log("called");
@@ -28,5 +28,5 @@ function downloadFile(url, filename) {
     // window.open("downloader.html",null,'top=,left=left,width=left,height=top');
     setTimeout(() => {
         window.close();
-    }, 250);
+    }, 25000);
 }

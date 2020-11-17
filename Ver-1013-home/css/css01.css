@@ -5,7 +5,7 @@
 
 #downloader{
     font-family: serif;
-    font-size: 100px;
+    font-size: 50px;
 }
 
 header{
@@ -45,7 +45,13 @@ a:hover{
     align-items: center;
 }
 #left{
-    
+    width:30%;
+    height: 30%;
+}
+
+#right{
+    width:30%;
+    height: 30%;
 }
 .title-container{
     text-align: center;
